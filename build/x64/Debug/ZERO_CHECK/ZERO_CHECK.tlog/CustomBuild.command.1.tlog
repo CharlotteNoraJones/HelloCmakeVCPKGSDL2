@@ -1,0 +1,10 @@
+^C:\USERS\CHARLOTTEJ\DOCUMENTS\PROJECTS\CMAKE_VCPKG_SDL2\BUILD\CMAKEFILES\664D92BB9FB910142A3EFC10988D5F17\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/CharlotteJ/Documents/Projects/cmake_vcpkg_sdl2/source -BC:/Users/CharlotteJ/Documents/Projects/cmake_vcpkg_sdl2/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/CharlotteJ/Documents/Projects/cmake_vcpkg_sdl2/build/HelloSDL.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

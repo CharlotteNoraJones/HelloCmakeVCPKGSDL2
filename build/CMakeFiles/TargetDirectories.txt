@@ -1,0 +1,3 @@
+C:/Users/CharlotteJ/Documents/Projects/cmake_vcpkg_sdl2/build/CMakeFiles/HelloSDL.dir
+C:/Users/CharlotteJ/Documents/Projects/cmake_vcpkg_sdl2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/CharlotteJ/Documents/Projects/cmake_vcpkg_sdl2/build/CMakeFiles/ZERO_CHECK.dir
